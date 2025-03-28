@@ -1,6 +1,6 @@
 # 📚 SQL Analysis Project – Online Book Store
 
-- ![Image 1](https://github.com/bhaskarpal1707/Online-Bookstore-Analysis/blob/main/Image%201.jpg)
+ ![Image 1](https://github.com/bhaskarpal1707/Online-Bookstore-Analysis/blob/main/Image%201.jpg)
 
 ## 🛠️ **Project Overview**
 This project is a detailed **SQL analysis** of an online book store using **PostgreSQL**. The goal was to manage and analyze book, customer, and order data by writing and executing **11 basic queries** and **9 advanced queries**. 
@@ -25,7 +25,7 @@ This project is a detailed **SQL analysis** of an online book store using **Post
 - **Columns:** Order ID, Customer ID, Book ID, Quantity, Order Date, Total Amount  
 - **Details:** Includes information about customer orders, book quantities, and total order amounts.
 
-  - ![Image 2](https://github.com/bhaskarpal1707/Online-Bookstore-Analysis/blob/main/Image%202.jpg) 
+   ![Image 2](https://github.com/bhaskarpal1707/Online-Bookstore-Analysis/blob/main/Image%202.jpg) 
 
 ---
 
@@ -57,7 +57,7 @@ This project is a detailed **SQL analysis** of an online book store using **Post
 
 ---
 
-- ![Image 3](https://github.com/bhaskarpal1707/Online-Bookstore-Analysis/blob/main/Image%203.jpg)
+ ![Image 3](https://github.com/bhaskarpal1707/Online-Bookstore-Analysis/blob/main/Image%203.jpg)
 
 ## ⚙️ **Challenges and Solutions**
 ### 1. **Handling NULL Values**
