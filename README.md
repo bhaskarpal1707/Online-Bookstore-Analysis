@@ -1,6 +1,6 @@
 # 📚 SQL Analysis Project – Online Book Store
 
-![Your Name](proto://www.linkedin.com/in/yourname)  
+!([proto://www.linkedin.com/in/yourname](https://github.com/bhaskarpal1707/Online-Bookstore-Analysis/blob/main/Image%201.jpg))  
 
 ## 🛠️ **Project Overview**
 This project is a detailed **SQL analysis** of an online book store using **PostgreSQL**. The goal was to manage and analyze book, customer, and order data by writing and executing **11 basic queries** and **9 advanced queries**. 
